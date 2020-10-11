@@ -1,4 +1,4 @@
-# Build a PHP array to <table></table> markup
+# Build a PHP array to `<table></table>` markup
 
 ## Case: Missing `<td></td>` if in loop there is no value defined.
 
